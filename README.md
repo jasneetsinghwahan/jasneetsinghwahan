@@ -3,7 +3,7 @@ you can reach me at jasneetsinghwahan@gmail.com
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![Jasneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasneetsinghwahan)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
