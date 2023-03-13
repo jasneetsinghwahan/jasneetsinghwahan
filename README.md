@@ -4,7 +4,7 @@ you can reach me at jasneetsinghwahan@gmail.com
 ---
 
 ### My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasneetsinghwahan)](https://github.com/anuraghazra/github-readme-stats)
+![Jasneet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasneetsinghwahan&count_private=true)
 
 <!--
 **jasneetsinghwahan/jasneetsinghwahan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
