@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 you can reach me at jasneetsinghwahan@gmail.com
 
 ---
